@@ -51,11 +51,11 @@ Algorithms-Design-Project
 
 ---
 ## Team members 
-Abdallah ahmed mohamed abdallah 
-abdelrhman mohamed hassan ibrahim 
-Amr ahmed elsayed mohamed 
-Abdelrhman Mohammed Ibrahim Aboalata 
-Abdelrhman mohsen mohamed mohamed 
+Abdallah ahmed mohamed abdallah ,
+abdelrhman mohamed hassan ibrahim, 
+Amr ahmed elsayed mohamed ,
+Abdelrhman Mohammed Ibrahim Aboalata ,
+Abdelrhman mohsen mohamed mohamed ,
 
 ---
 
